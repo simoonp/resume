@@ -112,7 +112,7 @@
 
 ### 6.2 实物图
 
-<img src="./file/P13.png" alt="Image" style="zoom: 33%;" />
+<img src="./file/P13.png" alt="Image" style="zoom: 20%;" />
 
 <p align="center">图13 移动机器人样机</p>
 
