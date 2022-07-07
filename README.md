@@ -11,7 +11,7 @@
 ### 1.2 系统框图
 
 <div align=center>
-<img src="./file/P01.png" alt="Image" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P01.png" alt="Image" style="zoom:80%;" />
 </div>
 
 <p align="center">图1 程序整体流图</p>
@@ -19,7 +19,7 @@
 ### 1.3 实物图
 
 <div align=center>
-<img src="./file/P02.png" alt="Image" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P02.png" alt="Image" style="zoom:80%;" />
 </div>
 
 <p align="center">图2 智能车B车模</p>
@@ -35,13 +35,13 @@
 ### 2.2 系统框图
 
 <div align=center>
-<img src="./file/P03.png" alt="Image" style="zoom: 80%;" />
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P03.png" alt="Image" style="zoom: 80%;" />
 </div>
 
 <p align="center">图3 小车软件总体框架</p>
 
 <div align=center>
-<img src="./file/P04.png" alt="Image" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P04.png" alt="Image" style="zoom:80%;" />
 </div>
 
 <p align="center">图4 小车硬件总体框架</p>
@@ -49,7 +49,7 @@
 ### 2.3 实物图
 
 <div align=center>
-<img src="./file/P05.png" alt="Image" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P05.png" alt="Image" style="zoom:80%;" />
 </div>
 
 <p align="center">图5 室外组车模</p>
@@ -63,7 +63,7 @@
 ### 3.2 系统框图
 
 <div align=center>
-<img src="./file/P06.png" alt="Image" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P06.png" alt="Image" style="zoom:80%;" />
 </div>
 
 <p align="center">图6 多功能电磁锁系统框图</p>
@@ -71,13 +71,13 @@
 ### 3.3 实物图
 
 <div align=center>
-<img src="./file/P07.png" alt="Image" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P07.png" alt="Image" style="zoom:80%;" />
 </div>
 
 <p align="center">图7 电磁锁实物图</p>
 
 <div align=center>
-<img src="./file/P08.png" alt="Image" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P08.png" alt="Image" style="zoom:80%;" />
 </div>
 
 <p align="center">图8 电磁锁PCB图</p>
@@ -91,13 +91,13 @@
 ### 4.2 系统框图
 
 <div align=center>
-<img src="./file/P09.png" alt="Image" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P09.png" alt="Image" style="zoom:80%;" />
 </div>
 
 <p align="center">图9 训练系统框图</p>
 
 <div align=center>
-<img src="./file/P10.png" alt="Image" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P10.png" alt="Image" style="zoom:80%;" />
 </div>
 
 <p align="center">图10 评分系统计算过程</p>
@@ -105,7 +105,7 @@
 ### 4.3 实物图
 
 <div align=center>
-<img src="./file/P11.png" alt="Image" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P11.png" alt="Image" style="zoom:80%;" />
 </div>
 
 <p align="center">图11 基于多模信息的手术技能训练评估系统</p>
@@ -121,7 +121,7 @@
 ### 5.2 实物图
 
 <div align=center>
-<img src="./file/P12.png" alt="Image" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P12.png" alt="Image" style="zoom:80%;" />
 </div>
 
 <p align="center">图12 清洁机器人实物图</p>
@@ -137,13 +137,13 @@
 ### 6.2 实物图
 
 <div align=center>
-<img src="./file/P13.png" alt="Image" style="zoom: 20%;" />
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P13.png" alt="Image" style="zoom: 20%;" />
 </div>
 
 <p align="center">图13 移动机器人样机</p>
 
 <div align=center>
-<img src="./file/P14.png" alt="Image"  />
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P14.png" alt="Image"  />
 </div>
 
 <p align="center">图14 导盲轮椅样机</p>
