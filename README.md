@@ -16,7 +16,9 @@
 
 ### 1.3 实物图
 
+<div align=center>
 <img src="./file/P02.png" alt="Image" style="zoom:80%;" />
+</div>
 
 <p align="center">图2 智能车B车模</p>
 
