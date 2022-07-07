@@ -11,7 +11,7 @@
 ### 1.2 系统框图
 
 <div align=center>
-![Image](./file/P01.png)
+<img src="./file/P01.png" alt="Image" style="zoom:80%;" />
 </div>
 
 <p align="center">图1 程序整体流图</p>
