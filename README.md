@@ -14,6 +14,8 @@
 
 <center>图1 程序整体流图</center>
 
+<p align="center">图1 程序整体流图</p>
+
 ### 1.3 实物图
 
 <img src="./file/P02.png" alt="Image" style="zoom:80%;" />
