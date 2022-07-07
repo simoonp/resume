@@ -150,12 +150,22 @@
 
 ## 7.奖状证书类附件
 
-<img src="./file/P15.png" alt="Image"  />
+<div align=center>
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P15.png" alt="Image"  />
+</div>
 
-<img src="./file/P16.png" alt="Image"  />
+<div align=center>
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P16.png" alt="Image"  />
+</div>
 
-<img src="./file/P17.png" alt="Image"  />
+<div align=center>
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P17.png" alt="Image"  />
+</div>
 
-<img src="./file/P18.png" alt="Image"  />
+<div align=center>
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P18.png" alt="Image"  />
+</div>
 
-<img src="./file/P19.png" alt="Image"  />
+<div align=center>
+<img src="https://raw.githubusercontent.com/simoonp/resume/main/file/P19.png" alt="Image"  />
+</div>
