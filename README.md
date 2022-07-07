@@ -35,7 +35,9 @@
 <img src="./file/P04.png" alt="Image" style="zoom:80%;" />
 
 <center>图4 小车硬件总体框架</center>
+
 ### 2.3 实物图
+
 <img src="./file/P05.png" alt="Image" style="zoom:80%;" />
 <center>图5 室外组车模</center>
 
