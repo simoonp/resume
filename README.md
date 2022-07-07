@@ -28,4 +28,4 @@
 
 ### 2.2 系统框图
 
-![Image](.\file\P03.png)
+![Image](./file/P03.png)
