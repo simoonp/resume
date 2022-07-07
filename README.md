@@ -12,15 +12,13 @@
 
 ![Image](./file/P01.png)
 
-<center>图1 程序整体流图</center>
-
 <p align="center">图1 程序整体流图</p>
 
 ### 1.3 实物图
 
 <img src="./file/P02.png" alt="Image" style="zoom:80%;" />
 
-<center>图2 智能车B车模</center>
+<p align="center">图2 智能车B车模</p>
 
 ## 2.第十四届恩智浦智能车竞赛
 
@@ -34,15 +32,17 @@
 
 <img src="./file/P03.png" alt="Image" style="zoom: 80%;" />
 
-<center>图3 小车软件总体框架</center>
+<p align="center">图3 小车软件总体框架</p>
+
 <img src="./file/P04.png" alt="Image" style="zoom:80%;" />
 
-<center>图4 小车硬件总体框架</center>
+<p align="center">图4 小车硬件总体框架</p>
 
 ### 2.3 实物图
 
 <img src="./file/P05.png" alt="Image" style="zoom:80%;" />
-<center>图5 室外组车模</center>
+
+<p align="center">图5 室外组车模</p>
 
 ## 3.多功能电磁锁
 
@@ -53,15 +53,18 @@
 ### 3.2 系统框图
 
 <img src="./file/P06.png" alt="Image" style="zoom:80%;" />
-<center>图6 多功能电磁锁系统框图</center>
+
+<p align="center">图6 多功能电磁锁系统框图</p>
+
 ### 3.3 实物图
 
 <img src="./file/P07.png" alt="Image" style="zoom:80%;" />
-<center>图7 电磁锁实物图</center>
+
+<p align="center">图7 电磁锁实物图</p>
 
 <img src="./file/P08.png" alt="Image" style="zoom:80%;" />
-<center>图8 电磁锁PCB图</center>
 
+<p align="center">图8 电磁锁PCB图</p>
 
 ## 4.基于多模信息的手术技能训练评估系统
 
@@ -72,15 +75,18 @@
 ### 4.2 系统框图
 
 <img src="./file/P09.png" alt="Image" style="zoom:80%;" />
-<center>图9 训练系统框图</center>
+
+<p align="center">图9 训练系统框图</p>
 
 <img src="./file/P10.png" alt="Image" style="zoom:80%;" />
-<center>图10 评分系统计算过程</center>
+
+<p align="center">图10 评分系统计算过程</p>
 
 ### 4.3 实物图
 
 <img src="./file/P11.png" alt="Image" style="zoom:80%;" />
-<center>图11 基于多模信息的手术技能训练评估系统</center>
+
+<p align="center">图11 基于多模信息的手术技能训练评估系统</p>
 
 ## 5.基于SLAM的清洁机器人
 
@@ -93,9 +99,8 @@
 ### 5.2 实物图
 
 <img src="./file/P12.png" alt="Image" style="zoom:80%;" />
-<center>图12 清洁机器人实物图</center>
 
- 
+<p align="center">图12 清洁机器人实物图</p>
 
 ## 6.基于SLAM的室外导盲服务机器人
 
@@ -109,11 +114,11 @@
 
 <img src="./file/P13.png" alt="Image" style="zoom: 33%;" />
 
-<center>图13 移动机器人样机</center>
+<p align="center">图13 移动机器人样机</p>
 
 <img src="./file/P14.png" alt="Image"  />
 
-<center>图14 导盲轮椅样机</center>
+<p align="center">图14 导盲轮椅样机</p>
 
 ## 7.奖状证书类附件
 
